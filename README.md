@@ -19,10 +19,15 @@
 <br><b>According to deatails submited by IT employess system will display the content(motivational quotes, images, video, blogs and nearby therapists </b><br><br>
 
 ![therapist](https://user-images.githubusercontent.com/68014307/103397879-38fd4c80-4b60-11eb-9d40-ac0bfd9db76d.JPG)
-<br><b>List of nearby therapists.</b><br><br>
+<br><br><b>List of nearby therapists.</b><br><br>
 ![admin1](https://user-images.githubusercontent.com/68014307/103397884-3bf83d00-4b60-11eb-81ab-36a26ee96b5d.JPG)
+<br><br><b>Admin Login.</b><br><br>
 ![admin2](https://user-images.githubusercontent.com/68014307/103397888-3dc20080-4b60-11eb-9875-d3e1316869a0.JPG)
+<br><br><b>Admin can add image.</b><br><br>
 ![admin3](https://user-images.githubusercontent.com/68014307/103397893-40245a80-4b60-11eb-9111-4a02947152f7.JPG)
+<br><br><b>Admnin can manahe images.</b><br><br>
 ![admin5](https://user-images.githubusercontent.com/68014307/103397958-8083d880-4b60-11eb-8346-bb92c285456c.JPG)
+<br><br><b>Admin can add video.</b><br><br>
 ![admin6](https://user-images.githubusercontent.com/68014307/103397906-4c101c80-4b60-11eb-93ea-a96f9c2359ff.JPG)
+<br><br><b>Admin can manage videos.</b><br><br>
 
