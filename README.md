@@ -8,14 +8,16 @@
 
 ![module1-3](https://user-images.githubusercontent.com/68014307/103397850-1e2ad800-4b60-11eb-923b-2b3529e4da28.JPG)<br>
 ![module1-4](https://user-images.githubusercontent.com/68014307/103397855-21be5f00-4b60-11eb-9e82-c78db98634c6.JPG)
-<br><b>According to users mood system will show the content(motivational quotes,images,video and blog ).</b><br><br>
+<br><b>According to users mood system will display the content(motivational quotes,images,video and blog ).</b><br><br>
 
 ![module2-1](https://user-images.githubusercontent.com/68014307/103397860-297e0380-4b60-11eb-9c39-746c66da5918.JPG)<br>
 ![module2-2](https://user-images.githubusercontent.com/68014307/103397863-2c78f400-4b60-11eb-8a3d-fd4d6aaa5aaf.JPG)
 <br><b>IT employess can submit the details.</b><br><br>
 
-![module2-3](https://user-images.githubusercontent.com/68014307/103397866-2f73e480-4b60-11eb-9d64-583f7eb6a77b.JPG)
+![module2-3](https://user-images.githubusercontent.com/68014307/103397866-2f73e480-4b60-11eb-9d64-583f7eb6a77b.JPG)<br>
 ![module2-4](https://user-images.githubusercontent.com/68014307/103397876-3569c580-4b60-11eb-99d6-f649feb7721b.JPG)
+<br><b>According to deatails submited by IT employess system will display the content(motivational quotes, images, video, blogs and nearby therapist </b><br><br>
+
 ![therapist](https://user-images.githubusercontent.com/68014307/103397879-38fd4c80-4b60-11eb-9d40-ac0bfd9db76d.JPG)
 ![admin1](https://user-images.githubusercontent.com/68014307/103397884-3bf83d00-4b60-11eb-81ab-36a26ee96b5d.JPG)
 ![admin2](https://user-images.githubusercontent.com/68014307/103397888-3dc20080-4b60-11eb-9875-d3e1316869a0.JPG)
