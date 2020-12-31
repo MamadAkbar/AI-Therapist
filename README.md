@@ -16,9 +16,10 @@
 
 ![module2-3](https://user-images.githubusercontent.com/68014307/103397866-2f73e480-4b60-11eb-9d64-583f7eb6a77b.JPG)<br>
 ![module2-4](https://user-images.githubusercontent.com/68014307/103397876-3569c580-4b60-11eb-99d6-f649feb7721b.JPG)
-<br><b>According to deatails submited by IT employess system will display the content(motivational quotes, images, video, blogs and nearby therapist </b><br><br>
+<br><b>According to deatails submited by IT employess system will display the content(motivational quotes, images, video, blogs and nearby therapists </b><br><br>
 
 ![therapist](https://user-images.githubusercontent.com/68014307/103397879-38fd4c80-4b60-11eb-9d40-ac0bfd9db76d.JPG)
+<br><b>List of nearby therapists.</b><br><br>
 ![admin1](https://user-images.githubusercontent.com/68014307/103397884-3bf83d00-4b60-11eb-81ab-36a26ee96b5d.JPG)
 ![admin2](https://user-images.githubusercontent.com/68014307/103397888-3dc20080-4b60-11eb-9875-d3e1316869a0.JPG)
 ![admin3](https://user-images.githubusercontent.com/68014307/103397893-40245a80-4b60-11eb-9111-4a02947152f7.JPG)
